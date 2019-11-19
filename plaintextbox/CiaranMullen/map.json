@@ -1,0 +1,58 @@
+[
+    {
+	"name": "Yokohama",
+	"location": [25.1212, 55.1535]
+    },
+    {
+	"name": "Tokyo Stadium",
+	"location": [35.6643, 139.5272]
+    },
+    {
+	"name": "oita",
+	"location": [33.200556, 131.6575]
+    },
+    {
+	"name": "Shizuoka Stadium",
+	"location": [34.743222, 137.970503]      
+    },
+    {
+	"name": "NOEVIR Stadium Kobe",
+	"location": [34.656708, 135.168964]
+    },
+    {
+	"name": "Shizuoka Stadium",
+	"location": [34.743222, 137.970503]      
+    },
+    {
+	"name": "Higashiosaka Hanazono Rugby Stadium",
+	"location": [34.668944, 135.626389]      
+    },
+    {
+	"name": "Toyota Stadium",
+	"location": [35.0845, 137.170611]      
+    },
+    {
+	"name": "Kumagaya Rugby Stadium",
+	"location": [36.16825, 139.402444]      
+    },
+    {
+	"name": "Fukuoka Hakatanomori Stadium",
+	"location": [33.585889, 130.46079]  
+    },
+
+    {
+	"name": "Sapporo Dome",
+	"location": [43.015172, 141.409767]  
+    },
+
+    {
+	"name": "Kumamoto Stadium",
+	"location": [32.836944, 130.8]  
+    },
+
+    {
+	"name": "Kamaishi Recovery Memorial Stadium",
+	"location": [39.327778, 141.892222]  
+    }
+
+]

@@ -1,0 +1,49 @@
+/*
+this is the main css sheet
+*/
+/*
+ variables styles
+*/
+/*
+ body styles
+*/
+body {
+  padding-top: 56px; }
+
+/*
+ footer styles
+*/
+.pt-5, .py-5 {
+  padding-top: 2rem !important; }
+
+/*
+ tables styles
+*/
+/*
+ map styles
+*/
+#map {
+  height: 300px;
+  width: 730px; }
+
+.Diameter {
+  height: 300px;
+  width: 730px; }
+
+/*
+styles for headers
+*/
+.bg-dark {
+  background-color: #1d7bd9 !important; }
+
+/*
+content styles
+*/
+div.card-body {
+  color: #1d7bd9;
+  text-align: left; }
+  div.card-body .card-title {
+    color: red !important;
+    text-align: match-parent; }
+
+/*# sourceMappingURL=main.css.map */

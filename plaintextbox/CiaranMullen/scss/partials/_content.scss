@@ -1,0 +1,12 @@
+/*
+content styles
+*/
+
+div.card-body{
+    color: $BrandingBlue;
+  text-align: left;
+    .card-title{
+	color:red !important;
+	text-align: match-parent;
+    }   
+}
