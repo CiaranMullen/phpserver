@@ -2,12 +2,12 @@
 
 $dbName = "ciaran";
 $dbUser = "root";
-$dbPassword = "root";
+$dbPassword = "";
 
 $db = new PDO("mysql:host=localhost;dbname=$dbName;charset=utf8mb4", $dbUser, $dbPassword );
 
-$statement = $db->prepare("SELECT id, name, price, description FROM products");
-
+$statement = $db->prepare("SELECT id, name, price, description FROM ciaran_products");
+echo (after connect);
 $statement->execute();
 
 $products = $statement->fetchAll();

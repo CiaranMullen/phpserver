@@ -2,7 +2,7 @@ ReactDOM.render(
     React.createElement(
         "h1",
         {
-            "style":{"color":"green"}
+            "style":{"color":"yellow"}
         }, 
         "Hello World"
     ),
